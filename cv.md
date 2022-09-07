@@ -1,7 +1,7 @@
 # rsschool-cv
 
 ## Valery Kozhevnikov
-============
+
 ### Contacts
 * Location: Bobruisk, Belarus
 * Phone: +375 29 654-17-39
@@ -35,7 +35,6 @@ return str.replace(/[-_]([a-z])/gi, (_, symbol) => symbol.toUpperCase() )
 * Udemy(JavaScript)
 * CS50
 * FreeCodeCamp
-=====
 
 ### English
 **A2**(I actively study English, but do not have the opportunity to communicate with native speakers)

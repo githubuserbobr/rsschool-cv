@@ -1,6 +1,6 @@
 # Valery Kozhevnikov
 
-============
+===
 
 ## Junior Frontend Developer
 
@@ -12,7 +12,7 @@
 * Telegram: https://t.me/samurai_from_bobr
 [LinkedIn](https://www.linkedin.com/in/valera-kozhevnikov-073b9b257/)
 
-============
+===
 
 ## Briefly About Myself:
 
@@ -24,7 +24,6 @@ am a friendly guy. I am an enthusiastic
 * JavaScript/React/Redux/NodeJs
 * Git/GitHub
 
-============
 
 ## Code example: 
 
@@ -65,9 +64,9 @@ function explode(s) {
 
 None(
 
-==========
 
 ## Languages:
 
 Russian: Native
+
 English: A2

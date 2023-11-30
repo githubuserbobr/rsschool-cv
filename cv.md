@@ -1,7 +1,5 @@
 # Valery Kozhevnikov
 
-===
-
 ## Junior Frontend Developer
 
 ## Contact information
@@ -62,7 +60,7 @@ function explode(s) {
 
 ## Courses: 
 
-None(
+None
 
 
 ## Languages:
